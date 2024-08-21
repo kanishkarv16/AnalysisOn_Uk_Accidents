@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) and Machine Learning Algorithms on UK ACCIDENTS 2017-2021
+# Analysis Of UK ACCIDENTS 2017-2021
 
 This repository contains Jupyter Notebooks for performing Exploratory Data Analysis (EDA) and implementing Machine Learning algorithms on the UK ACCIDENTS dataset spanning from 2017 to 2021. The dataset provides valuable insights into accident trends, contributing factors, and patterns that can aid in developing predictive models for accident occurrences.
 
